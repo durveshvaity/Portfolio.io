@@ -262,7 +262,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["a Leader.", "a Developer.", "a Researcher.", "a Journey.", "an IT."];
+const textArray = ["Apex.", "Lightning Web Components.", "Salesforce integrations.", "JavaScript.", "other Salesforce technologies."];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
